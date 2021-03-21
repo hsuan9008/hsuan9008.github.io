@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    font-family:標楷體;
+    font-size:1cm;
+    color:#000080
+}
+h2{
+    font-family:標楷體;
+    font-size:2em;
+    color:#093233
+}
+h4{
+    text-align: center;
+    font-family:標楷體;
+    font-size:0.7cm;
+    color:#25065f
+}
+h5{
+    font-family:標楷體;
+    font-size:x-large;
+    color:#135c90
+}
+h6{
+    font-family:標楷體;
+    font-size:x-large;
+    color:#692455
+}
+table { 
+    margin-left:auto; 
+    margin-right:auto;
+    text-align:center;
+    font-family:標楷體,sans-serif; 
+    font-size:2em; 
+    width:auto;
+    border-collapse:collapse;
+    border:1px solid #000080;
+} 
+td{ 
+    border:1px solid #000;
+}
+html {
+    height: 100%;
+}
+body{
+
+    background-image:url('https://images.pexels.com/photos/3255761/pexels-photo-3255761.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
