@@ -107,28 +107,28 @@
 {
     h1{
     text-align: center;
-    font-family:標楷體;
+    font-family:微軟正黑體;
     font-size:1cm;
     color:#692455
     }
     h2{
-    font-family:標楷體;
+    font-family:微軟正黑體;
     font-size:2em;
     color:#093233
     }
     h4{
     text-align: center;
-    font-family:標楷體;
+    font-family:微軟正黑體;
     font-size:0.7cm;
     color:#485361
     }
     h5{
-    font-family:標楷體;
+    font-family:微軟正黑體;
     font-size:x-large;
     color:#25065f
     }
     h6{
-    font-family:標楷體;
+    font-family:微軟正黑體;
     font-size:x-large;
     color:#000080
     }
@@ -136,7 +136,7 @@
     margin-left:auto; 
     margin-right:auto;
     text-align:center;
-    font-family:標楷體,sans-serif; 
+    font-family:微軟正黑體,sans-serif; 
     font-size:2em; 
     width:auto;
     border-collapse:collapse;
