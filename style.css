@@ -1,4 +1,5 @@
-@media screen and (min-width:1200px){
+@media screen and (min-width:769px)
+{
     h1{
         text-align: center;
         font-family:標楷體;
@@ -50,60 +51,8 @@
         background-size: cover;
         }
 }
-@media screen and (min-width:992px)
-{
-    h1{
-    text-align: center;
-    font-family:標楷體;
-    font-size:1cm;
-    color:#093233
-    }
-    h2{
-    font-family:標楷體;
-    font-size:2em;
-    color:#000080
-    }
-    h4{
-    text-align: center;
-    font-family:標楷體;
-    font-size:0.7cm;
-    color:#485361
-    }
-    h5{
-    font-family:標楷體;
-    font-size:x-large;
-    color:#25065f
-    }
-    h6{
-    font-family:標楷體;
-    font-size:x-large;
-    color:#692455
-    }
-    table { 
-    margin-left:auto; 
-    margin-right:auto;
-    text-align:center;
-    font-family:標楷體,sans-serif; 
-    font-size:2em; 
-    width:auto;
-    border-collapse:collapse;
-    border:1px solid #000080;
-    } 
-    td{ 
-    border:1px solid #000;
-    }
-    html {
-    height: 100%;
-    }
-    body{
-        background-image:url('https://github.com/hsuan9008/hsuan9008.github.io/blob/main/back.jpeg?raw=true');
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-position: center;
-        background-size: cover;
-    }
-}
-@media screen and (min-width:768px)
+
+@media screen and (min-width:481px)and (max-width:769px)
 {
     h1{
     text-align: center;
@@ -156,56 +105,3 @@
         background-size: cover;
     }
 }
-@media screen and(min-width:576px)
-{
-    h1{
-    text-align: center;
-    font-family:標楷體;
-    font-size:1cm;
-    color:#485361
-    }
-    h2{
-    font-family:標楷體;
-    font-size:2em;
-    color:#25065f
-    }
-    h4{
-    text-align: center;
-    font-family:標楷體;
-    font-size:0.7cm;
-    color:#000080
-    }
-    h5{
-    font-family:標楷體;
-    font-size:x-large;
-    color:#692455
-    }
-    h6{
-    font-family:標楷體;
-    font-size:x-large;
-    color:#093233
-    }
-    table { 
-    margin-left:auto; 
-    margin-right:auto;
-    text-align:center;
-    font-family:標楷體,sans-serif; 
-    font-size:2em; 
-    width:auto;
-    border-collapse:collapse;
-    border:1px solid #000080;
-    } 
-    td{ 
-    border:1px solid #000;
-    }
-    html {
-    height: 100%;
-    }
-    body{
-        background-image:url('https://github.com/hsuan9008/hsuan9008.github.io/blob/main/back.jpeg?raw=true');
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-position: center;
-        background-size: cover;
-    }
-}  
