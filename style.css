@@ -40,19 +40,10 @@
         td{ 
         border:1px solid #000;
         }
-        html {
-        height: 100%;
-        }
-        body{
-        background-image:url('https://github.com/hsuan9008/hsuan9008.github.io/blob/main/back.jpeg?raw=true');
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-position: center;
-        background-size: cover;
-        }
+       
 }
 
-@media screen and (min-width:481px)and (max-width:769px)
+@media screen and (min-width:769px)
 {
     h1{
     text-align: center;
@@ -94,14 +85,14 @@
     td{ 
     border:1px solid #000;
     }
-    html {
+}
+html {
     height: 100%;
     }
     body{
-        background-image:url('https://github.com/hsuan9008/hsuan9008.github.io/blob/main/back.jpeg?raw=true');
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-position: center;
-        background-size: cover;
-    }
+    background-image:url('https://github.com/hsuan9008/hsuan9008.github.io/blob/main/back.jpeg?raw=true');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
 }
