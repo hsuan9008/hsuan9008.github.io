@@ -99,11 +99,7 @@
     }
     body{
 
-    background-image:url('https://github.com/hsuan9008/hsuan9008.github.io/blob/main/pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
+    background-image:color#eff31a
     }
 }
 @media screen and (min-width:768px)
@@ -207,10 +203,6 @@
     }
     body{
 
-    background-image:url('https://github.com/hsuan9008/hsuan9008.github.io/blob/main/pexels-eberhard-grossgasteiger-2088170.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
+    background-image:color#eff31a
     }
 }
